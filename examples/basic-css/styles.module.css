@@ -8,3 +8,7 @@
 .hello:hover {
   background: #ccc;
 }
+
+.container {
+  columns: 250px 2;  
+}
